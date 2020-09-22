@@ -607,7 +607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e07ca0fd5ef90e947a81fbe2c8d0b1ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button: {fileID: 21833095}
+  levelButton: {fileID: 21833095}
   sceneToLoad: FirstScene
 --- !u!1 &1995840233
 GameObject:

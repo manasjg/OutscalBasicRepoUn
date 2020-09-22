@@ -6,12 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class ButtonScript : MonoBehaviour
 {
-    public Button button;
+    public Button levelButton;
     public string sceneToLoad;
-    // Start is called before the first frame update
     void Start()
     {
-        button.onClick.AddListener(LoadScene);
+        levelButton.onClick.AddListener(LoadScene);
     }
 
     void LoadScene()
