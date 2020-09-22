@@ -357,7 +357,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e07ca0fd5ef90e947a81fbe2c8d0b1ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button: {fileID: 1401707963}
+  levelButton: {fileID: 1401707963}
   sceneToLoad: ThirdScene
 --- !u!114 &697266716
 MonoBehaviour:
@@ -589,7 +589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e07ca0fd5ef90e947a81fbe2c8d0b1ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button: {fileID: 1430551578}
+  levelButton: {fileID: 1430551578}
   sceneToLoad: SecondScene
 --- !u!1 &1150990633
 GameObject:
@@ -779,7 +779,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e07ca0fd5ef90e947a81fbe2c8d0b1ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  button: {fileID: 419875189}
+  levelButton: {fileID: 419875189}
   sceneToLoad: FourthScene
 --- !u!114 &1292614586
 MonoBehaviour:
